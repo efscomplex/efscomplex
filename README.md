@@ -1,7 +1,5 @@
 # **Edgar Ferrer**
 
-   <img src="edgar-pic.png" style="margin-bottom: 1rem; width: 211px; position: center" >
-
 ### **Contact**
 
 **Barcelona, Catalonia**
