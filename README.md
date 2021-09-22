@@ -3,7 +3,7 @@
 ### **Contact**
 
 **Barcelona, Catalonia**
--   Born: 26 of july, 1980
+-   Born: 26 of july
 
 ### **Social Networks**
 
