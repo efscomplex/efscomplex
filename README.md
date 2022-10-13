@@ -36,6 +36,8 @@ Strong professional education with a Master in Optica y Optometria focused in Co
 
 ## **Professional Experience**
 
+- **Frontend Develper in Qida**
+
 -  **Frontend Developer** in Tiendeo
 
    Maitenance and add features with the related business logic.
